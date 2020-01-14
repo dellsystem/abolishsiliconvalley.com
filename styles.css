@@ -1,0 +1,36 @@
+*{margin:0;padding:0}
+body{font-family:'Lora',serif;font-size:14px;line-height:2em;color:#222}
+.wrap{max-width:1000px;margin:0 auto;padding:50px 0}
+.block{background: #010e1e; width: 100%;color: #fff}
+.block a{color: #fff; font-weight:bold}
+a{color:#b00;text-decoration:none}
+a:hover{color:#d11;border-bottom:solid 1px #d11}
+p{padding-bottom:20px}
+h1,h2,h3,h4,h5,h6{color:#222;clear:both;font-weight:normal;padding-bottom:20px}h1{font-size:2.1em}h2{font-size:2.0em}h3{font-size:1.7em}h4{font-size:1.3em}
+.block h1, .block h2, .block h3, .block h4, .block h5, .block h6{color: white}
+hr{padding:0;border:none;border-top: 2px solid #ccc;margin:25px 0 20px 0}
+.leftfloat{float:left;margin-right:35px}
+.thumb{width:200px}
+blockquote{padding-top:5px;padding-bottom:5px;padding-left:10px;margin-bottom:10px;font-size:0.9em}
+blockquote p{padding-bottom:0 !important}
+blockquote footer{padding-left: 100px; text-align: right}
+blockquote cite{font-style: normal}
+.curly-quote{font-size: 2em; vertical-align: text-top}
+.opening-quote{padding-right: 5px}
+.closing-quote{padding-left: 5px}
+.column{display:inline-block;vertical-align:top;padding:0 15px}
+.column img{width:100%}
+.double-grid .column{max-width:460px}
+.double-grid{padding-bottom:20px}
+.centered{text-align:center}
+.right-aligned{text-align:right}
+h1 .sub {font-size:0.7em;color:#ccc}
+.lead{font-size: 1.1em;}
+p {font-size:1.1em}
+.single-grid{padding:0 20px;}
+@media (max-width:1000px){
+    .wrap{padding: 40px 20px}
+    h2{font-size: 1.5em}
+    .leftfloat{float: none;width: 100px;}
+    .column{display:block;width:100%;margin:0 auto}
+}
