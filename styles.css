@@ -24,8 +24,6 @@ blockquote cite{font-style: normal}
 .double-grid{padding-bottom:20px}
 .centered{text-align:center}
 .right-aligned{text-align:right}
-h1 .sub {font-size:0.7em;color:#ccc}
-.lead{font-size: 1.1em;}
 p {font-size:1.1em}
 .single-grid{padding:0 20px;}
 @media (max-width:1000px){
