@@ -32,5 +32,6 @@ p {font-size:1.1em}
     .wrap{padding: 40px 20px}
     h2{font-size: 1.5em}
     .leftfloat{float: none;width: 100px;}
-    .column{display:block;width:100%;margin:0 auto}
+    .column{display:block;width:100%;margin:0 auto;padding:0}
+    blockquote footer{padding-left: 10px}
 }
