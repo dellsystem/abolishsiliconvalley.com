@@ -20,7 +20,7 @@ blockquote cite{font-style: normal}
 .closing-quote{padding-left: 5px}
 .column{display:inline-block;vertical-align:top;padding:0 15px}
 .column img{width:100%}
-.double-grid .column{max-width:500px}
+.double-grid .column{width:500px}
 .double-grid{padding-bottom:20px}
 .centered{text-align:center}
 .right-aligned{text-align:right}
